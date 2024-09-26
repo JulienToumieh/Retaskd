@@ -6,3 +6,4 @@ A simple Kotlin tasks app that resets task status every day using Material Desig
 - Quickly create and remove tasks
 - Enable/disable daily reset
 - Backup/restore tasks
+- Confetti!!
